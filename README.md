@@ -8,12 +8,12 @@ Scapes is a Kotlin Multiplatform wallpaper manager for Windows and Android. It a
 
 | Repo | Description |
 |---|---|
-| [scapes-app](https://github.com/scapes-app/scapes-app) | Kotlin Multiplatform app — Windows & Android |
-| [scapes-backend](https://github.com/scapes-app/scapes-backend) | PHP REST API — auth, wallpapers, moderation |
-| [scapes-contributor](https://github.com/scapes-app/scapes-contributor) | Web portal for contributors |
-| [scapes-admin](https://github.com/scapes-app/scapes-admin) | Web dashboard for admins |
-| [scapes-landing](https://github.com/scapes-app/scapes-landing) | Public landing and download page |
-| [scapes-db](https://github.com/scapes-app/scapes-db) | MySQL schema and migrations |
+| [scapes-app](https://github.com/Scapes-Wallpaper/scapes-app) | Kotlin Multiplatform app — Windows & Android |
+| [scapes-backend](https://github.com/Scapes-Wallpaper/scapes-backend) | PHP REST API — auth, wallpapers, moderation |
+| [scapes-db](https://github.com/Scapes-Wallpaper/scapes-db) | MySQL schema and migrations |
+| [scapes-contributor](https://github.com/Scapes-Wallpaper/scapes-contributor) | Web portal for contributors |
+| [scapes-admin](https://github.com/Scapes-Wallpaper/scapes-admin) | Web dashboard for admins |
+| [scapes-landing](https://github.com/Scapes-Wallpaper/scapes-landing) | Public landing and download page |
 
 ## Features
 
@@ -44,7 +44,7 @@ Scapes is a Kotlin Multiplatform wallpaper manager for Windows and Android. It a
 
 | Portal | URL |
 |---|---|
-| User app | _coming soon_ |
+| User app | [scapes.my.id](https://scapes.my.id) |
 | Contributor | [contributor.scapes.my.id](https://contributor.scapes.my.id) |
 | Admin | [admin.scapes.my.id](https://admin.scapes.my.id) |
 
@@ -61,13 +61,13 @@ Scapes is a Kotlin Multiplatform wallpaper manager for Windows and Android. It a
 
 | Feature | Preview |
 |---|---|
-| Contributor — Register | ![Register](docs/images/contributorRegister.png) |
-| Contributor — Login | ![Login](docs/images/contributorLogin.png) |
-| Contributor — Reset Password | ![Reset Password](docs/images/contributorReset.png) |
-| Contributor — Upload Wallpaper | ![Upload](docs/images/contributorUpload.png) |
-| Contributor — Moderation Status | ![Status](docs/images/contributorModerasi.png) |
-| Contributor — Delete Wallpaper | ![Delete](docs/images/contributorDelete.png) |
-| Contributor — Insights | ![Insights](docs/images/contributorInsight.png) |
-| Contributor — Profile | ![Profile](docs/images/contributorProfile.png) |
-| Admin — Dashboard | ![Dashboard](docs/images/adminDashboard.png) |
-| Admin — Review Wallpaper | ![Review](docs/images/adminReview.png) |
+| Contributor — Register | ![Register](images/contributorRegister.png) |
+| Contributor — Login | ![Login](images/contributorLogin.png) |
+| Contributor — Reset Password | ![Reset Password](images/contributorReset.png) |
+| Contributor — Upload Wallpaper | ![Upload](images/contributorUpload.png) |
+| Contributor — Moderation Status | ![Status](images/contributorModerasi.png) |
+| Contributor — Delete Wallpaper | ![Delete](images/contributorDelete.png) |
+| Contributor — Insights | ![Insights](images/contributorInsight.png) |
+| Contributor — Profile | ![Profile](images/contributorProfile.png) |
+| Admin — Dashboard | ![Dashboard](images/adminDashboard.png) |
+| Admin — Review Wallpaper | ![Review](images/adminReview.png) |
