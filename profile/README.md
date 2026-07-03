@@ -8,7 +8,7 @@ Scapes is a Kotlin Multiplatform wallpaper manager for Windows and Android. It a
 
 | Repo | Latest release | Highlights |
 |---|---|---|
-| [scapes-app](https://github.com/Scapes-Wallpaper/scapes-app) | [v1.0.0](https://github.com/Scapes-Wallpaper/scapes-app/blob/main/changelog.md) | First stable Windows & Android release |
+| [scapes-app](https://github.com/Scapes-Wallpaper/scapes-app) | [v1.0.0](https://github.com/Scapes-Wallpaper/scapes-app/releases/tag/v1.0.0) | First stable Windows & Android release |
 
 ## Repositories
 
